@@ -1,0 +1,31 @@
+
+h1,p {text-align: center;}
+
+table, td{
+border: solid 2px rgb(0, 9, 94);
+border-collapse: collapse;
+background-color:rgb(219, 226, 231)
+}
+table {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table, p, a{  font-family: 'Times New Roman';
+        font-size:25px;}
+body {background-color: rgb(128, 149, 168);}
+
+
+
+
+
+.asd{
+    color: #ffffff !important;
+}
+.asd1{
+    color: #ffffff !important;
+}
+.asd2{
+    color: #ffffff !important;
+}
